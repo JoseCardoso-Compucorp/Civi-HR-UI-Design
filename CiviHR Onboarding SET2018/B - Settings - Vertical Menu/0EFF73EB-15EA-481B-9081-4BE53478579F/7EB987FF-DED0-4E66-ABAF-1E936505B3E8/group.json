@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7EB987FF-DED0-4E66-ABAF-1E936505B3E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A8DD57B6-2B6C-4536-97AE-C7878236DBCD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "622440B0-7C1E-403C-A40D-3519C0F1021F",
+    "height": 21,
+    "width": 5,
+    "x": 781,
+    "y": 447
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "6577817C-3F92-4973-A291-15AB2E068DC2"
+    },
+    {
+      "class": "oval",
+      "id": "75B54B05-1681-4486-8943-49196E85622F"
+    },
+    {
+      "class": "oval",
+      "id": "461160EA-77F9-4D84-9A6D-32B4758707D7"
+    }
+  ],
+  "name": "Group 2 Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EB00711E-761A-452D-BA8D-F59E9B34F699",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

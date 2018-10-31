@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2D604ECC-DD27-4975-A07D-A42F8ADCCCF7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A6C02CF0-B970-433F-9F62-FCD2E708469F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9416EA11-6B2D-45B9-B4E7-EDCC7B86DFF0",
+    "height": 1633,
+    "width": 79,
+    "x": 1,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation / Main Nav Bar / Vertical  / CiviHR Admin / Option 1 Collapsed",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4D5B840B-A371-4065-A749-2D9FAC718BA4",
+      "overrideName": "AE7426C0-8708-4D51-8EB2-86969D8E9DBC_symbolID",
+      "value": "A7C01199-5004-4624-A907-C7FF87D250D3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "212EBBE5-27FF-45CD-A20D-52F909694ABE",
+      "overrideName": "D4801E71-F00A-4C1B-A1D1-F84001C49EFA_symbolID",
+      "value": "6B2C500B-D009-4C5F-B0C7-F0C16B647706"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0B3ED468-A0DE-4B85-8BB5-F1D74B7EFBC8",
+      "overrideName": "D4801E71-F00A-4C1B-A1D1-F84001C49EFA/8B1C0910-9922-41A7-8911-CEB500A28249_stringValue",
+      "value": "Users"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1CC4CF13-95D6-4A0B-B2CB-95CB81666877",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9C8E1E36-B50E-4E75-9D75-88EB90C7B085",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,106 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "93D31413-9446-4919-A2B4-5F3991006D1B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9BE844AD-95D4-4651-887D-32493DDDDA94",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6E6F4EA1-2AB3-460C-A064-2B7B6DC39277",
+    "height": 60,
+    "width": 1140,
+    "x": 109,
+    "y": 927
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Team List Row Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "485E2E51-CCBE-4CCD-B669-44B1C811B7B5_stringValue",
+      "value": "Amanda Henry"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7018AD15-A25D-437A-BC44-46336F4DEDF8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a7046fa6ade5629347eef2f4c110f6bc02f42c5a.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DC0CF05E-452D-44D1-A654-C790C387B516_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "56FCE73F-C9D7-4FFF-82AC-B6575CFFA6E2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a6dbd7e4ce2dfd4ac587b6bd2bd134f4ed3e5bef.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BCD0A841-4D86-4688-83C8-EE66FDD2B0CA_stringValue",
+      "value": "Carl Casey"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C390C5D2-FE15-49C7-B603-37FBDE89D8D5_stringValue",
+      "value": "harold_predovic@schaefer.name"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "571A3ACA-C788-4694-891B-1467B615B212_stringValue",
+      "value": "624-213-0006"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3986734E-E639-49F2-8F16-319F549372F4_stringValue",
+      "value": "624-213-0006"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E3258C6A-F5F8-4A43-93FA-B83E6B700045",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FD2C558F-6203-4DAB-8A08-7DD842A84EDB",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,139 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E8DBFCC1-2EB9-43BF-B47E-719BAF531C36",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0B0BE9A6-12A1-4058-8F72-23772E1FB85D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "327A9AFA-F6D2-4538-8E09-86049FDE8EBC",
+    "height": 58,
+    "width": 850,
+    "x": 432,
+    "y": 153
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D87C28FF-6F18-4C9B-B4C4-663DDF92D5A8"
+    },
+    {
+      "class": "rectangle",
+      "id": "1FA32932-EC41-4140-B7D4-5C9F5FF3A4F1"
+    },
+    {
+      "class": "rectangle",
+      "id": "2AC93BEC-E33D-45DB-9E47-204A4F0E2F72"
+    },
+    {
+      "class": "group",
+      "id": "8FACB135-5FFE-4017-89EB-721E1956E9B8"
+    },
+    {
+      "class": "text",
+      "id": "A3E4B1E3-1324-4512-8027-FFF59BE766D3"
+    },
+    {
+      "class": "text",
+      "id": "8D6DB9C9-F810-4908-AF22-583346BE24CF"
+    },
+    {
+      "class": "text",
+      "id": "B94ABEA9-9CF8-438D-9086-6AD4070286C2"
+    },
+    {
+      "class": "text",
+      "id": "6A2BBA5A-F229-414D-AF64-F8F8C62AA9DC"
+    },
+    {
+      "class": "text",
+      "id": "C659E63F-7284-4FB8-A030-605385CA064B"
+    },
+    {
+      "class": "text",
+      "id": "B3C3BD8B-2B46-4960-A778-8D812F0E9EE3"
+    },
+    {
+      "class": "text",
+      "id": "24977F50-85DA-4DA6-827B-12970D8083B5"
+    },
+    {
+      "class": "text",
+      "id": "4BEE6E7B-0301-464E-8AB0-B00B2B834F3D"
+    },
+    {
+      "class": "text",
+      "id": "82F4087E-D833-417F-A71B-C12C909CD58C"
+    },
+    {
+      "class": "text",
+      "id": "434DADFF-C3B9-4B0A-BF68-A26A40ADFEA9"
+    },
+    {
+      "class": "text",
+      "id": "3A6EFC54-422D-4B81-94A3-EA79F1F0D29E"
+    },
+    {
+      "class": "text",
+      "id": "0D49F9F5-C3B0-4B8B-AB23-4D91C5FEE72A"
+    },
+    {
+      "class": "shapePath",
+      "id": "7B01DDB6-23C5-4B75-8CAD-8A01057E7448"
+    },
+    {
+      "class": "shapePath",
+      "id": "0BF7F39B-2507-451E-9134-5C27A7F2EE36"
+    },
+    {
+      "class": "shapePath",
+      "id": "22F2E3B6-798F-4367-9614-AEDAE2FC2C9A"
+    },
+    {
+      "class": "shapePath",
+      "id": "C81499B8-68D8-4460-B0F2-78059244B9BC"
+    },
+    {
+      "class": "text",
+      "id": "287FE07B-5487-4D5A-A189-C87AFFB6687C"
+    }
+  ],
+  "name": "Group 11",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C97337EB-B942-48CF-B78C-D4ADAEB83B80",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

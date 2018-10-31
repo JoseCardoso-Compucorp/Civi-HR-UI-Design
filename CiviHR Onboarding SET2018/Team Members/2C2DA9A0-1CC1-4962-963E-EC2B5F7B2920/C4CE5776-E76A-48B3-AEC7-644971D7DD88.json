@@ -1,0 +1,84 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C4CE5776-E76A-48B3-AEC7-644971D7DD88",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60,
+    "width": 1140,
+    "x": 140,
+    "y": 977
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Team List Row Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "BCD0A841-4D86-4688-83C8-EE66FDD2B0CA_stringValue",
+      "value": "Corey Bradley"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7018AD15-A25D-437A-BC44-46336F4DEDF8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/43fa0fd21182add99553c7e2f86ffd2717287eea.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DC0CF05E-452D-44D1-A654-C790C387B516_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3986734E-E639-49F2-8F16-319F549372F4_stringValue",
+      "value": "Kuhnton"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "485E2E51-CCBE-4CCD-B669-44B1C811B7B5_stringValue",
+      "value": "Birdie Palmer"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FD2C558F-6203-4DAB-8A08-7DD842A84EDB",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

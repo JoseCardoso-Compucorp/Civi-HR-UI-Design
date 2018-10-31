@@ -1,0 +1,122 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "35C0DBDE-A106-46B2-BBFF-445EB6FAE3C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D12FA6F7-6510-49B7-8DAF-198963F32F13"
+    },
+    {
+      "class": "text",
+      "id": "F1305E78-AA68-4FF6-8238-BDE70639104D"
+    },
+    {
+      "class": "artboard",
+      "id": "1E8D0DDC-072A-4E23-9938-A7189D051C96"
+    },
+    {
+      "class": "artboard",
+      "id": "B47DE76C-9EF9-48A6-8A81-5354075E55B5"
+    },
+    {
+      "class": "artboard",
+      "id": "F6E6B263-2E27-42CB-BE7B-539E5571DE98"
+    },
+    {
+      "class": "artboard",
+      "id": "9DD55E5E-AD8E-411A-8A61-3C1F29A572D9"
+    },
+    {
+      "class": "artboard",
+      "id": "D490EBE0-3DCE-43F8-BC27-66089EA5345F"
+    },
+    {
+      "class": "artboard",
+      "id": "A3BA1612-6AAF-44BB-8DF2-80ACFC95E0FF"
+    },
+    {
+      "class": "rectangle",
+      "id": "7E8BCA16-1194-401A-8615-04069AF6D896"
+    },
+    {
+      "class": "text",
+      "id": "C06DD29B-58A9-42C4-B56E-12CF8B69CCB8"
+    },
+    {
+      "class": "text",
+      "id": "E98FFA0D-17CA-440C-A76A-049162C825B9"
+    },
+    {
+      "class": "artboard",
+      "id": "F61C9285-D539-47C7-A111-2133ACAB739E"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Add Team Member",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

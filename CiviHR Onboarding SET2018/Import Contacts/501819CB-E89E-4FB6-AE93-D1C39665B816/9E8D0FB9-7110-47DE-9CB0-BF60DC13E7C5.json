@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9E8D0FB9-7110-47DE-9CB0-BF60DC13E7C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1580720C-030C-4B6C-B01D-BA46592072DF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "01CBA417-384A-46E8-8BE0-6E0E29FB6DEE",
+    "height": 43,
+    "width": 223,
+    "x": 320,
+    "y": 553
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button / Book Demo / Outline Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FAEADD9D-7B80-4649-9D44-1828A88130F9",
+      "overrideName": "FC583AC8-3A33-4007-A48F-986DB6B1F17D_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6D7BD8F7-DB22-470B-AF08-1C28B871299A",
+      "overrideName": "3C7D2BB6-FB73-4E9E-A195-806CAC2F0EEE_stringValue",
+      "value": "Select File manually"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7EF5F2E2-6999-496A-9D55-C55202538D52",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CED29A8E-4B24-48F5-8B16-1796EFC113BE",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

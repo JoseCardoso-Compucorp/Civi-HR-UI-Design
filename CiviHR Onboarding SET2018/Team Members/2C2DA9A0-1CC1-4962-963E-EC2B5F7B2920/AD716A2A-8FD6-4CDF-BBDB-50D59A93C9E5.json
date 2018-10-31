@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AD716A2A-8FD6-4CDF-BBDB-50D59A93C9E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4CF80877-0D75-4F9D-A647-AB7177F0BCCA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61C53333-2D35-4D69-A2CA-864D3751B50C",
+    "height": 60,
+    "width": 1140,
+    "x": 140,
+    "y": 497
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Team List Row Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "BCD0A841-4D86-4688-83C8-EE66FDD2B0CA_stringValue",
+      "value": "Celia Frank"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3986734E-E639-49F2-8F16-319F549372F4_stringValue",
+      "value": "East Hector"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9AA8E870-72EA-4649-B214-046C1E82B4A2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FD2C558F-6203-4DAB-8A08-7DD842A84EDB",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

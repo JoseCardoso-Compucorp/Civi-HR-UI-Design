@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A69D095F-EBF2-447B-B2EF-CEE2C7759241",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2C4FACEC-4459-415F-B0F6-FB5351B629F4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9A76B8E7-6DB0-444D-A233-0C78FF7087E1",
+    "height": 68,
+    "width": 1420,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "CiviHR Admin Nav Bar (Horizontal)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D37CA4F2-1715-491D-9B9D-0344594DC747",
+      "overrideName": "0A36F2B2-D8A5-488E-8363-67EA358A557F_symbolID",
+      "value": "65384BDC-E5B5-44AE-B42B-5EE0FC28E34A"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3AEACFAB-93E7-44B1-9DFA-14EC1BC04890",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4845D851-5832-46D8-A2AF-5402DA492A9C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

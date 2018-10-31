@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "60BC43E1-EF7B-4B7D-8FED-416B77290CD3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6D178942-437A-4466-9075-5A61A458D61D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "786BD9B6-5BC9-4F5D-A5A0-41CFB388A9F2",
+    "height": 18,
+    "width": 18,
+    "x": 32,
+    "y": 490
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "67BB41B9-B5FE-49B0-A3AB-A7AC8AE6A8E4"
+    },
+    {
+      "class": "shapePath",
+      "id": "AB740069-74CB-40DC-890E-16B086C9C7A8"
+    }
+  ],
+  "name": "settings copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "30D34F6D-1B1E-4292-A042-154C0002E606",
+      "opacity": 0.35
+    },
+    "do_objectID": "229100B5-1015-43C4-B8EA-D7F251EC4DEA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 18,
+            "enabled": 1,
+            "modelID": "constraint_ecd0ca79-a8db-4f1b-8d82-0f7b2afb792c",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 18
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_e27db602-702e-4313-9562-2cc9087e62a7",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

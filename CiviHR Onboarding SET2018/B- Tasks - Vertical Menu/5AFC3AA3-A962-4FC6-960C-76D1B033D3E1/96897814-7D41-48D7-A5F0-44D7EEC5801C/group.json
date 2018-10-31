@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "96897814-7D41-48D7-A5F0-44D7EEC5801C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FC8A1FB3-6A1E-4406-BDF0-48DD197A1107",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "89A3470F-6595-48DC-AB37-FFCC5AC0C7F5",
+    "height": 30,
+    "width": 71,
+    "x": 157,
+    "y": 510
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "354FCC33-C6A3-4C7D-A352-154F2A36FFB2"
+    },
+    {
+      "class": "text",
+      "id": "F0009796-1BFB-46C6-ACF0-728D1D0C8AD6"
+    },
+    {
+      "class": "text",
+      "id": "E6D9DDFC-C229-483E-971C-A0B830DA299B"
+    }
+  ],
+  "name": "Edit Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3180A44E-7293-430F-94FB-AADF0790D205",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

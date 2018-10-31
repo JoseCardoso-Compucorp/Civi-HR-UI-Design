@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0804B8EE-4713-411E-99F1-DDC2952D4D76",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 77,
+    "width": 576,
+    "x": 864,
+    "y": 617
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UI Input / Dropdown + Edit",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "30E60CFA-2426-47FB-B7A2-A45956783CA7",
+      "overrideName": "87D70568-9E53-43F2-B7EB-F218241B22CD/94B823BF-A45C-4A86-825B-77B2D19702BB_stringValue",
+      "value": "Edit Options"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B30C8D1C-9723-4DEC-B6A2-2EE880E9A839",
+      "overrideName": "7685A7E8-B2E0-45EA-9095-A5D669ABF0FF/410F64CD-16E1-4D58-A7BA-93796B8B579B_stringValue",
+      "value": "TOIL to be Accrued"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5569C17C-632E-4589-84D1-8EF7EB7F6FF2",
+      "overrideName": "02C9B29E-3D14-4697-8136-6A92DDDD5FD5/FC7F7F0D-0E2A-4B43-A8FD-CBC62A9EA696/CA13C576-D696-40C9-97CA-DD50D41E7075_stringValue",
+      "value": "1/2 Days"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8C8A3532-1C38-4B64-873E-03F0C83787A4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

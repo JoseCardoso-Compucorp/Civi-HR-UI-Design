@@ -1,0 +1,97 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "10CA0FEE-0188-4FCB-B9A5-0CDB6A6F5069",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "603C9F43-D8B3-4BEB-8848-903E3A75AF08",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "245F770B-1C10-4E95-AF06-220B2C2AB02B",
+    "height": 60,
+    "width": 1140,
+    "x": 109,
+    "y": 1107
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Team List Row Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "485E2E51-CCBE-4CCD-B669-44B1C811B7B5_stringValue",
+      "value": "Tom King"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DC0CF05E-452D-44D1-A654-C790C387B516_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "56FCE73F-C9D7-4FFF-82AC-B6575CFFA6E2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/1290627bfba10e28edb9e872541317d6a7560c66.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BCD0A841-4D86-4688-83C8-EE66FDD2B0CA_stringValue",
+      "value": "Ray Rios"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C390C5D2-FE15-49C7-B603-37FBDE89D8D5_stringValue",
+      "value": "lindsey.jones@kautzer.us"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "571A3ACA-C788-4694-891B-1467B615B212_stringValue",
+      "value": "959-383-6318"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3986734E-E639-49F2-8F16-319F549372F4_stringValue",
+      "value": "959-383-6318"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "92ED9EDE-7983-41D4-A944-E05A72C778BE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FD2C558F-6203-4DAB-8A08-7DD842A84EDB",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

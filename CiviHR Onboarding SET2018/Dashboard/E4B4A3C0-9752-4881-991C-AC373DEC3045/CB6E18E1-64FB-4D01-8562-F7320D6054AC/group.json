@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CB6E18E1-64FB-4D01-8562-F7320D6054AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D6F3560F-4A3A-499E-9922-9A6413D96D18",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3E039AB7-463C-4BC9-A2EC-45B558A60FF5",
+    "height": 50,
+    "width": 198,
+    "x": 626,
+    "y": 1042
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "69FAEC65-8DC8-40D4-AA69-27AA5015C6E6"
+    },
+    {
+      "class": "text",
+      "id": "8E11503A-E728-4D3A-B8FD-7A207427CB80"
+    },
+    {
+      "class": "text",
+      "id": "25010BEC-88B2-427E-A66B-83D046F85B68"
+    }
+  ],
+  "name": "CTA Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 44,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "03F36756-9D2E-49B9-A248-EA1A6B4F743A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "545AD316-B704-4249-9316-9F852A44C5D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "106DE99B-C02E-452B-85C7-E6F17AF7D24B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ECF7D9E6-149E-4651-A892-E435E2D344CD",
+    "height": 60,
+    "width": 1140,
+    "x": 109,
+    "y": 627
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Team List Row Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "485E2E51-CCBE-4CCD-B669-44B1C811B7B5_stringValue",
+      "value": "Allie Garner"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7018AD15-A25D-437A-BC44-46336F4DEDF8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/eda2095d9dc82b2f99289d762cba0e6ed71dd8af.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "56FCE73F-C9D7-4FFF-82AC-B6575CFFA6E2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/91f091dc080d4dad4dfc5701acc45b8a14e16fbd.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BCD0A841-4D86-4688-83C8-EE66FDD2B0CA_stringValue",
+      "value": "Evelyn Fowler"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C390C5D2-FE15-49C7-B603-37FBDE89D8D5_stringValue",
+      "value": "jenkins_jamarcus@yahoo.com"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "571A3ACA-C788-4694-891B-1467B615B212_stringValue",
+      "value": "321-325-6125"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3986734E-E639-49F2-8F16-319F549372F4_stringValue",
+      "value": "North Kaela"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8466D65F-8C6F-4EF4-A7F1-D518BCD1F45E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FD2C558F-6203-4DAB-8A08-7DD842A84EDB",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

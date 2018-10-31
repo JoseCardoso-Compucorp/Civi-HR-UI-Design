@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8EF003A1-D2CC-4A4D-AD4F-72243F172A1B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BF1DA102-C235-46DD-B04E-9122063DC624",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "98A11878-55EF-4477-B62D-3CF1565A6E1B",
+    "height": 653,
+    "width": 260,
+    "x": 140,
+    "y": 477
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation / Pill Menu / Large",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2880FFED-3B78-420E-99C9-A4F74FA9525C",
+      "overrideName": "869D4A25-2B62-40DE-B2D5-4D5DC8224662/EAD56813-4761-43BF-A900-E483BDFCE9ED_stringValue",
+      "value": "Contract & Pay"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B33AE3FD-3788-470B-8029-947EC98157A5",
+      "overrideName": "3FB0F303-05AF-4BCD-A8AA-F9506D6A0D45_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D8609862-1C18-4DA0-B8D2-BF58DED3BC79",
+      "overrideName": "348E05E7-FA12-4038-B386-882B1FF7FEF1_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CBCCD806-374B-47A1-A981-0FE9B1C73535",
+      "overrideName": "D2FDF388-05E8-449B-8FB1-E903E72ED220_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B62DB6FD-3DF7-424F-B6DC-34FD9E739A57",
+      "overrideName": "D9AEF641-4EEF-4B0A-82E3-93509613DD3F_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2C37D22A-3565-44C7-8CB6-81BBA2E6C320",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FE62824C-4EF0-4347-84EF-B7A29E4990CC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3AC5B88B-2FB4-40BC-BE32-EDFF67ACBBF6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9AC9EA50-30F6-459F-BC66-F39C308C2503",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A0A33571-0744-45AD-8AA5-96B085FA6E14",
+    "height": 64,
+    "width": 769,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tablet / Safari / Navigation Bar",
+  "nameIsFixed": false,
+  "originalObjectID": "B896A02A-9BF9-4C01-9C98-8124E58499B9",
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4894644D-C0A5-41E4-B7A9-C283888A4422",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EDF37359-A3E3-4671-90D5-986836BF46F4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "EB06110D-FE51-403A-980C-ABBF9712B6A6",
+        "version": 1
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

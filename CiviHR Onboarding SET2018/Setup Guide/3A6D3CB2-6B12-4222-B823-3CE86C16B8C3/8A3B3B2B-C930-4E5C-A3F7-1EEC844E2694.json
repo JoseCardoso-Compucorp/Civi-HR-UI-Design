@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8A3B3B2B-C930-4E5C-A3F7-1EEC844E2694",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D2BBA50D-9A70-4249-87FF-6DBE63D88F26",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "675406C7-FDD9-4F0E-976E-97F2A4B60A66",
+    "height": 160,
+    "width": 750,
+    "x": 432,
+    "y": 1586
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Section Module (Closed) Copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34A2B456-D5F0-4718-BAC4-D3DD36E360C5",
+      "overrideName": "BB0D7671-7FAB-4997-A546-15BBE5F4827F_stringValue",
+      "value": "chart-pie "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0B73119E-DDEB-4441-B0DD-282E485AE78B",
+      "overrideName": "ECC8F5A1-4283-476E-9297-349D03EC3570_stringValue",
+      "value": "Setup your Reports "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5466CA5B-FF92-4532-994B-C434F17091B8",
+      "overrideName": "2BCDB1DC-679E-4E17-AF7B-5CE0F62AF6CB_stringValue",
+      "value": "Setup your Reports "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C53CC0DD-B3FD-4B38-BD0A-7FD85D627E8E",
+      "overrideName": "D4E5DE95-08D0-4125-BA2B-D01B88E67C53_stringValue",
+      "value": "chart-pie "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "0542DABE-887C-4889-B3FF-4E083A06B19A",
+      "opacity": 0.8
+    },
+    "do_objectID": "75E1A5B8-C3EF-4DA6-9BF9-27648694B8DD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2BB4E7B5-C8B5-42E8-B665-DAE1ED0FBDEB",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

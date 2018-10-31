@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "18117FA6-AA43-4765-8482-11BB9C615E73",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C697AE46-C823-483A-A46D-50361F281A86",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7B613CFE-7240-49E7-A7E2-E3335255998B",
+    "height": 68,
+    "width": 1420,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "CiviHR Admin Nav Bar (Horizontal)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7D47CD90-C85E-4224-8B2F-1650416BECBD",
+      "overrideName": "F8A57C91-8340-45CB-98A5-BC1440F5911C_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E2E991B3-F614-4716-AE21-4213E2B1B23F",
+      "overrideName": "2E781B35-9789-4D05-9F41-E9141FBC8849_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FB803011-FCA0-41EC-9C06-31C1D4A34F4D",
+      "overrideName": "5723C62C-9313-4B74-9CD3-3F7E22D877C1_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E04E170A-27A9-4ADF-A3EA-7F2A1D627C47",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5445F192-B949-4A59-AA26-7ADA87DBBE46",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

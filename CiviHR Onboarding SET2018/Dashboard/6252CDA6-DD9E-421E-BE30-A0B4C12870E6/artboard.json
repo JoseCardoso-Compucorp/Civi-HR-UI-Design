@@ -1,0 +1,216 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9647058823529412,
+    "do_objectID": "D1269A4B-307E-4C7D-BD25-1E7E057FEEDD",
+    "green": 0.9647058823529412,
+    "red": 0.9647058823529412
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6252CDA6-DD9E-421E-BE30-A0B4C12870E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F18BD834-B68C-4414-BD54-BAAFB041FEF6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "73D49B08-CECC-4281-8946-3879E6A6693B",
+    "height": 1275,
+    "width": 1420,
+    "x": 298,
+    "y": -3282
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "8EA6B0F3-F5E5-42DF-BE56-6BD439408F7D",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9C2476F8-DE4F-4AE0-8931-3F82DA4B2486",
+    "guides": [
+      110,
+      1280,
+      140,
+      1310
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "36B0CCFC-71D1-4E1F-AF4B-08E057973821"
+    },
+    {
+      "class": "text",
+      "id": "578015BF-BD48-411E-8158-046129976C30"
+    },
+    {
+      "class": "text",
+      "id": "32B40FB5-ACA5-49EB-88A9-5FA41B136EC7"
+    },
+    {
+      "class": "text",
+      "id": "47E65264-3D46-4A66-ADD8-831405CAB321"
+    },
+    {
+      "class": "text",
+      "id": "41146669-F957-4424-B291-B3EFE8442E78"
+    },
+    {
+      "class": "text",
+      "id": "3FC6E565-C1EC-4506-95A2-8A2BD94F0D29"
+    },
+    {
+      "class": "text",
+      "id": "0DB4FE42-2E73-4317-8135-5E4702F18FD8"
+    },
+    {
+      "class": "text",
+      "id": "7FB07066-A2A3-4724-AA37-13080E956738"
+    },
+    {
+      "class": "text",
+      "id": "D899C2CA-B8BF-4BBB-9EB3-C878104C6EBC"
+    },
+    {
+      "class": "rectangle",
+      "id": "3DC2DA77-B08C-408A-AE43-D7091A5B3FC6"
+    },
+    {
+      "class": "text",
+      "id": "D8C50A43-5D2B-4D92-A582-0167F2E5011C"
+    },
+    {
+      "class": "text",
+      "id": "4661781A-ACF9-474F-8494-4CE6F4394EF1"
+    },
+    {
+      "class": "text",
+      "id": "33381E21-9F27-42AE-AB54-E36AA2652EDB"
+    },
+    {
+      "class": "group",
+      "id": "30E3334B-D652-433F-B47E-576858DD655D"
+    },
+    {
+      "class": "group",
+      "id": "05128A3F-A765-4E46-A28B-32C09E675987"
+    },
+    {
+      "class": "group",
+      "id": "839E40D5-6E40-40CD-8D83-7B114E572174"
+    },
+    {
+      "class": "group",
+      "id": "FCDD91A5-A73E-472F-B90E-397896AAFD3D"
+    },
+    {
+      "class": "group",
+      "id": "4BC6DDFF-9227-45D4-BF73-E1F7C3880642"
+    },
+    {
+      "class": "group",
+      "id": "DF924E97-ACD7-4354-A483-A83FD4AD3570"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F2A9FF49-BE8B-4C03-8BF2-AED2D4562CF8"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 67.5,
+    "do_objectID": "6E29FCBC-CD60-4CE4-8224-BF1935C83DF9",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 125,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1170
+  },
+  "name": "CIviHR Dashboard - Full (option A)",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D358B58F-346A-4BCB-B725-D9FE57BC05A0",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "10DB31BF-313C-400C-B3B7-BAD0CA4CABEF",
+    "guides": [
+    ]
+  }
+}

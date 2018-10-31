@@ -1,0 +1,86 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FB3FFDB4-8D43-4474-94A2-6F5930136532",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1C38C739-3EA0-4A92-A36A-B390A0FEEA48",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "858217AB-08DD-4346-8E31-F1DA58734A31",
+    "height": 14,
+    "width": 3.5,
+    "x": 300.5,
+    "y": 34
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F5F5D229-6B1B-42F7-8ACA-3D7249FF2D9A"
+    },
+    {
+      "class": "shapePath",
+      "id": "2937BB1F-F512-433F-8FC4-9CF388D2F2FB"
+    },
+    {
+      "class": "shapePath",
+      "id": "D9B156DB-4E73-4797-A6AC-C2C7804FA31D"
+    }
+  ],
+  "name": "Icon/Dots",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D382C236-0D6A-4C1B-84A9-5516AB2F329A",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.56,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 0
+}

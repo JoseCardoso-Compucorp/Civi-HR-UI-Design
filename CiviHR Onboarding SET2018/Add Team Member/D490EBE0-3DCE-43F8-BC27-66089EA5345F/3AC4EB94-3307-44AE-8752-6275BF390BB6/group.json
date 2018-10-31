@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3AC4EB94-3307-44AE-8752-6275BF390BB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E0380BE8-3E81-4FF3-AE17-0FC3F6164EE7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "87245811-C898-43A0-923D-8A49ACC1B7FF",
+    "height": 60,
+    "width": 264,
+    "x": 431,
+    "y": 889
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "92441F23-AB6B-4629-9DE8-FD4A41068819"
+    },
+    {
+      "class": "text",
+      "id": "E34F3542-C046-486E-9524-B7CF87BAB17C"
+    },
+    {
+      "class": "text",
+      "id": "085C1CBC-8D6F-416F-AAB2-385B496F166D"
+    }
+  ],
+  "name": "View Dashboard Button / Gradient",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "BBEAF331-1B6E-4840-9661-B5E17D636316",
+      "opacity": 0.75
+    },
+    "do_objectID": "C4E2A733-AEAC-449B-B5B4-B22398076FE1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

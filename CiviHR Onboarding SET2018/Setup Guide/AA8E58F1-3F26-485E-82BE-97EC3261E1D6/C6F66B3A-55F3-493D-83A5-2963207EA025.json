@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C6F66B3A-55F3-493D-83A5-2963207EA025",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "964A997F-2C36-4638-B5E8-789270011D00",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C7B00049-AF28-4CCA-BE49-E9940E7C984F",
+    "height": 160,
+    "width": 750,
+    "x": 483,
+    "y": 1207
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Section Module (Closed) Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B64A5E20-1094-44F6-8120-B65D95FEF692",
+      "overrideName": "BB0D7671-7FAB-4997-A546-15BBE5F4827F_stringValue",
+      "value": "rocket"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EFE4C9CF-44FE-4D18-A1A4-CB98C402435B",
+      "overrideName": "ECC8F5A1-4283-476E-9297-349D03EC3570_stringValue",
+      "value": "Costumize your Self Service Portal"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1C2D6D44-352F-40D9-88EA-44200300DD93",
+      "overrideName": "2BCDB1DC-679E-4E17-AF7B-5CE0F62AF6CB_stringValue",
+      "value": "Costumize your Self Service Portal"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "56C4554D-715D-4FD8-A32B-0D263D86F3D8",
+      "overrideName": "D4E5DE95-08D0-4125-BA2B-D01B88E67C53_stringValue",
+      "value": "rocket"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "C00227CE-812B-452D-A553-8F35313EAA04",
+      "opacity": 0.8
+    },
+    "do_objectID": "5AF33190-1C84-4BF3-8757-963B05A1DE41",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2BB4E7B5-C8B5-42E8-B665-DAE1ED0FBDEB",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

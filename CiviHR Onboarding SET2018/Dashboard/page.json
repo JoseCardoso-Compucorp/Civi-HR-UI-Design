@@ -1,0 +1,102 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "180215FA-F6F4-47C2-83DA-B80F10854E7C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -953,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0B7C9A0E-F488-4DFA-8B95-21A2E2008E4A"
+    },
+    {
+      "class": "text",
+      "id": "F5125239-E522-4E71-954F-675B9F5D3686"
+    },
+    {
+      "class": "artboard",
+      "id": "E4B4A3C0-9752-4881-991C-AC373DEC3045"
+    },
+    {
+      "class": "artboard",
+      "id": "6252CDA6-DD9E-421E-BE30-A0B4C12870E6"
+    },
+    {
+      "class": "artboard",
+      "id": "6702EAE0-C8C5-4878-98E6-421E40EDBFFF"
+    },
+    {
+      "class": "artboard",
+      "id": "6DC1E022-31A0-4689-B3BA-DBAE9D45E3FC"
+    },
+    {
+      "class": "artboard",
+      "id": "06D89F0B-DCC2-4569-9091-D2B9DDC2EC89"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Dashboard",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -662,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A10CD479-6C95-4C90-88F1-4D8FADA614A2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F47BFDB1-9862-4615-88EE-A4DC955E1A80",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A4029ACC-131F-48A5-BBC8-D2DA0A4D03B6",
+    "height": 60,
+    "width": 1140,
+    "x": 109,
+    "y": 387
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Team List Row Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "BCD0A841-4D86-4688-83C8-EE66FDD2B0CA_stringValue",
+      "value": "Celia Frank"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C390C5D2-FE15-49C7-B603-37FBDE89D8D5_stringValue",
+      "value": "myah_mertz@yahoo.com"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3986734E-E639-49F2-8F16-319F549372F4_stringValue",
+      "value": "East Hector"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "571A3ACA-C788-4694-891B-1467B615B212_stringValue",
+      "value": "423-107-9800"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "485E2E51-CCBE-4CCD-B669-44B1C811B7B5_stringValue",
+      "value": "Elva Figueroa"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "701772F5-7985-49E8-A574-C4B89FD70B0B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FD2C558F-6203-4DAB-8A08-7DD842A84EDB",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

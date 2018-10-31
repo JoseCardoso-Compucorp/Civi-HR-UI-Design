@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2637CFA2-43B3-445A-BB11-BF31F8F8E817",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D0DDE7FA-73D6-459A-A09F-05EAC2EF670F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4889CFA6-F919-4527-B708-A4EE9FBF512E",
+    "height": 160,
+    "width": 665,
+    "x": 378,
+    "y": 1102
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Section Module / Book Demo",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9729AB6D-A8EE-443A-B0FD-20D4B1F612AF",
+      "overrideName": "3238BEA8-CB12-46F9-9953-C958A0A565E8_stringValue",
+      "value": "I'm here to help."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D5463684-9199-4B69-8539-0A01F56D7403",
+      "overrideName": "4BCC2F99-63CB-4396-BE51-A12023EBB839_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8914D2C1-D1C1-443E-998C-AB392184786D",
+      "overrideName": "15F06E98-AF68-4125-B7F6-1918DF78BCDF_stringValue",
+      "value": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed ..."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0DC2867D-5D37-42FD-9E60-F06B8C3E088D",
+      "overrideName": "6CCF3306-39FF-42F8-9A93-6A090A1E98C7_stringValue",
+      "value": "Lorem ipsum dolor sit amet, consectetur adipisicing elit..."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "08016B99-C2B2-40B1-8B43-2B14353B63BD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1CEA6B52-F414-483B-B1F5-291AC40109C5",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

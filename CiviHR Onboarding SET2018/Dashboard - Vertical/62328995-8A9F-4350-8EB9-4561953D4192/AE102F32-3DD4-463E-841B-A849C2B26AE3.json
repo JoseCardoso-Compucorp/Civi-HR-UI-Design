@@ -1,0 +1,112 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AE102F32-3DD4-463E-841B-A849C2B26AE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1E94920B-6FFF-4311-81DF-A2862B5582CE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B548B5F1-EE3F-443E-A681-D1577F26F40F",
+    "height": 1633,
+    "width": 249,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation / Main Nav Bar / Vertical  / CiviHR Admin / Option 1",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "22293FAA-B675-4DD3-B9A0-196C4AA9EC40",
+      "overrideName": "CD2C7D09-E78F-4798-B4A0-05D6340C631C_symbolID",
+      "value": "724D7CD2-A5BF-4569-9CFD-F287B66C6601"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C401981A-113F-43D7-9796-2C6312924CD3",
+      "overrideName": "69209059-7E60-4CB4-B81F-373FABD1E511_symbolID",
+      "value": "724D7CD2-A5BF-4569-9CFD-F287B66C6601"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CDF29432-F2CF-46AC-BD8D-DABC0E643C16",
+      "overrideName": "7FBC1F03-E6FC-4359-AF4E-9AFA637CF1C6_symbolID",
+      "value": "0070182A-1B06-458D-85FB-8F96EF05ED77"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7F20CEF5-7C6A-44B1-A1C4-AEC2E30B127C",
+      "overrideName": "7FBC1F03-E6FC-4359-AF4E-9AFA637CF1C6/F37669B8-F130-4153-BDCD-36DD71FCFC68_stringValue",
+      "value": "users"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "10F9D1BC-27F9-41F2-9F73-9481C8FC0FE3",
+      "overrideName": "7FBC1F03-E6FC-4359-AF4E-9AFA637CF1C6/B256E433-707F-4254-88E0-D3EC7E94853A_stringValue",
+      "value": "Team"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3313E515-9EA6-431C-9B53-60019537B229",
+      "overrideName": "E20E78C2-FB14-4D32-8BE4-F0389673093D_symbolID",
+      "value": "724D7CD2-A5BF-4569-9CFD-F287B66C6601"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "381EC39C-3743-490B-8A11-EB868B8B407E",
+      "overrideName": "75D01626-16BE-4521-BEE9-EE32703354CF_symbolID",
+      "value": "724D7CD2-A5BF-4569-9CFD-F287B66C6601"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1E0BACB7-1BBB-404E-9A94-CBE95A7B8CE7",
+      "overrideName": "40577FF9-B079-4721-BAEC-BAC644FF7761_symbolID",
+      "value": "724D7CD2-A5BF-4569-9CFD-F287B66C6601"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE9FD36A-3CFA-4DB1-AEB8-B18591399167",
+      "overrideName": "0A0356A4-1520-43E9-AD21-BB9A60FEB8F8_symbolID",
+      "value": "724D7CD2-A5BF-4569-9CFD-F287B66C6601"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "41C20034-6A88-46BF-9534-304073ECB880",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2BACB5AC-B73D-438A-8A4F-BF32820C2159",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

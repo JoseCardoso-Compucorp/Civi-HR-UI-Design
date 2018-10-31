@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F0BDEB6D-6BBA-44E9-88C3-2832F7082546",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "16653FFD-3B51-46BA-9AD4-A6414E38AD15",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EBEC8BE9-E653-4A74-9E65-CE752A6A7535",
+    "height": 60,
+    "width": 264,
+    "x": 13574,
+    "y": -12723
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3B541EC2-A80B-4CB1-9A5C-EB418BEE7E6B"
+    },
+    {
+      "class": "text",
+      "id": "B7EFC377-216F-41EE-9A22-AD2BFFA9FA9E"
+    },
+    {
+      "class": "text",
+      "id": "D0B548C2-0EF2-4EF2-A1DB-4FDE951CB870"
+    }
+  ],
+  "name": "View Dashboard Button / Gradient Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "82B6534C-4D9E-4ACE-A811-186A7C18012F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

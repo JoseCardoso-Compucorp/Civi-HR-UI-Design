@@ -1,0 +1,96 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4843855C-04D3-43CD-89A7-8A1A447DAC9E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "31DAE4E3-3BC7-4022-940F-10942DCECBF6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "65877C5D-6D48-47E6-8451-0AF4A749ED74",
+    "height": 0.1,
+    "width": 0.1,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -706,
+    "do_objectID": "BEDFC6B1-B4EC-41A5-B832-6EB1D195C215",
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "93C3149A-2588-454C-B68B-ADE489405DD4"
+    },
+    {
+      "class": "artboard",
+      "id": "CCE9B948-EDD0-479D-A8D3-0DF13690513B"
+    },
+    {
+      "class": "artboard",
+      "id": "5AFC3AA3-A962-4FC6-960C-76D1B033D3E1"
+    },
+    {
+      "class": "artboard",
+      "id": "CEFAC520-408F-4F03-B590-2782C1640C34"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "3C2A7EBE-3557-4DED-8E33-27B39DD90AF9",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "B- Tasks - Vertical Menu",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B275C087-72E0-42DF-9B0B-135F8C4E938A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -505,
+    "do_objectID": "B8C83500-6DC3-4A8E-AB33-95E2B8B2173D",
+    "guides": [
+    ]
+  }
+}

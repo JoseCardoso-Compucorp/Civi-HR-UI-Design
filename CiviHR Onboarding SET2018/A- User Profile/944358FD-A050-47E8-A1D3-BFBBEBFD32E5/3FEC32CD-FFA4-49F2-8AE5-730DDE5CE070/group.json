@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3FEC32CD-FFA4-49F2-8AE5-730DDE5CE070",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "482AF6BA-22F8-4C1A-9DB6-8D849C3A660B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "642C6816-D1FA-436F-B04B-A2CB2298B0DF",
+    "height": 19,
+    "width": 175,
+    "x": 597,
+    "y": 975
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "040C0766-C10F-40E8-BCD5-96AA7A024C60"
+    },
+    {
+      "class": "text",
+      "id": "E7526EB0-CC4A-4C2A-BF41-76BE5CE709AF"
+    }
+  ],
+  "name": "Group 6 Copy 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E43CDF8D-D3D8-48C8-A956-14FE3E27F62E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.5235437925170068,
+    "green": 0.5235437925170068,
+    "red": 0.5235437925170068
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1D8437E8-967A-4EB2-86D6-7F20714805E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "417795A2-21CB-4979-8903-01DAAA8B63F7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8BE5FAC2-9C1F-4C46-9415-8D38F82EB5F0",
+    "height": 160,
+    "width": 721,
+    "x": -17678,
+    "y": -13333
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "29490372-D307-4BB6-B731-6526C666C8AB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "33DD5BA1-734E-4C43-A7D3-441C519C75C5"
+    },
+    {
+      "class": "rectangle",
+      "id": "EBE6698B-0026-49FA-881D-BCEA3EA4CC0E"
+    }
+  ],
+  "name": "Hover - Step 3 Setup Service Portal",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "48808386-D2D4-45B3-93FD-C7AB8DA9DCC2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "98E7122B-A3B9-4492-A447-B0EEDB2802FC",
+    "guides": [
+    ]
+  }
+}

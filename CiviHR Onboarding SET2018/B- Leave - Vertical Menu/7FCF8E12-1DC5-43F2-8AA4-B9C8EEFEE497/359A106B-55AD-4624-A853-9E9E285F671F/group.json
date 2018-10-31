@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "359A106B-55AD-4624-A853-9E9E285F671F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CEDF66D5-AAA8-4021-8F5F-BAF4F3C228DC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "27183B17-5BFE-4BCE-B0A1-359D6280C1AC",
+    "height": 16,
+    "width": 13,
+    "x": 34,
+    "y": 326
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DB510442-9F97-48E4-862B-B81CC14C4134"
+    },
+    {
+      "class": "shapePath",
+      "id": "7128E5DC-151B-4844-93BF-62FF00E60590"
+    },
+    {
+      "class": "shapePath",
+      "id": "454329CE-0F7C-4A71-9BE5-D9D823875DC3"
+    }
+  ],
+  "name": "bar-chart",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "C4262B8A-94EF-4A78-BA5F-4BEB554DC658",
+      "opacity": 0.3676897321428572
+    },
+    "do_objectID": "FB9674CA-AF48-41F5-9293-BA2856C5EF47",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

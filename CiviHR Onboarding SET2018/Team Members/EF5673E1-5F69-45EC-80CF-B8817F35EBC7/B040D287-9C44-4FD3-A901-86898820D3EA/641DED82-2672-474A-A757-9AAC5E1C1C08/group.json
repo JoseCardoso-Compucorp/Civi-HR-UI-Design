@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "641DED82-2672-474A-A757-9AAC5E1C1C08",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "25179B16-C44F-497A-A3D6-4A42555E8572",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "932C912F-28DD-4AED-B13A-764CF71B76DE",
+    "height": 15,
+    "width": 309,
+    "x": 6,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D279FB00-C871-496E-8198-4996BEB516E6"
+    },
+    {
+      "class": "text",
+      "id": "AC2F45E2-85D5-41E5-AD6B-1E4AE35BCFF0"
+    },
+    {
+      "class": "group",
+      "id": "3C479B6E-43A8-4A1F-819C-B1D7320129B0"
+    }
+  ],
+  "name": "Status Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "65EFFDF2-E005-4449-B5C9-271204FD115D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

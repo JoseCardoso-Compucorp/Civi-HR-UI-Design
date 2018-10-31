@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7E91F76D-DB0B-4420-94BF-B6E22A2C96F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9D076126-3BE4-4D30-A2C5-94712B4BA09C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "05C2AAF7-7251-4B43-8DC9-B8A42A3DD3E7",
+    "height": 60,
+    "width": 1140,
+    "x": 109,
+    "y": 507
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Team List Row Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C390C5D2-FE15-49C7-B603-37FBDE89D8D5_stringValue",
+      "value": "wilber.pfannerstill@collins.org"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6AAC9572-EC46-4E0B-8759-FCDC40E339D4_stringValue",
+      "value": "Francisco Walker"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B2446C56-7AE7-4ABB-ABF6-3F8BB88624C8_stringValue",
+      "value": "jast.amely@gmail.com"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DD8B802C-AF94-449C-8746-6E68AC7FB8B2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e434354067179e947ec304204891141e50daf542.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "84D02C67-6785-4414-829A-92A0E73D0CC7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "39EB14E5-FEB5-4C49-81E7-56AC26FA64B3",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

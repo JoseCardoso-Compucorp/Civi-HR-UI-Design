@@ -1,0 +1,84 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "E52B8E86-ACB5-4F72-BDBD-926DA033E95D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "15E2F036-982A-4F75-9357-2DFFCE405A4D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "23C2BFB3-E743-49A3-93E3-FD528B6EA789",
+    "height": 443.3333333333333,
+    "width": 665,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/4ffdb535ac9716fbf45ec16c33ad8d1046b68373.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ellyot-588130-unsplash",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": -0.1187711148648649,
+      "contrast": 0.441089527027027,
+      "do_objectID": "3DB1DCD0-8272-4344-87B9-877DA3709447",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "do_objectID": "69D67B85-C686-4838-8398-BF7A36E6C5B2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 443.3333,
+            "enabled": 1,
+            "modelID": "constraint_d3c2b099-096b-4ffa-8792-dec19c83e487",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 665
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_26a467d8-63cd-40fa-afa6-24a2fe3ae443",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

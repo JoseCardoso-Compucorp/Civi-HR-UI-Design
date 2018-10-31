@@ -1,0 +1,106 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D6441FED-755D-4916-A877-8107D40CD916",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "829A0109-B8B1-47FF-905C-800CFC500396",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D4867CCA-04ED-49FE-8774-34699C945565",
+    "height": 60,
+    "width": 1140,
+    "x": 109,
+    "y": 987
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Team List Row Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "485E2E51-CCBE-4CCD-B669-44B1C811B7B5_stringValue",
+      "value": "Brandon Doyle"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7018AD15-A25D-437A-BC44-46336F4DEDF8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/7ed458b81cfddd0462f2329f36e3c3102ec66f92.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DC0CF05E-452D-44D1-A654-C790C387B516_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "56FCE73F-C9D7-4FFF-82AC-B6575CFFA6E2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4133b992d8f96b19d40194f1efc39b2992b78c70.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BCD0A841-4D86-4688-83C8-EE66FDD2B0CA_stringValue",
+      "value": "Betty Graham"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C390C5D2-FE15-49C7-B603-37FBDE89D8D5_stringValue",
+      "value": "martine.jones@hermina.info"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "571A3ACA-C788-4694-891B-1467B615B212_stringValue",
+      "value": "379-808-1307"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3986734E-E639-49F2-8F16-319F549372F4_stringValue",
+      "value": "379-808-1307"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "25C91BB7-F97E-42F8-84D8-A246D6CAE388",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FD2C558F-6203-4DAB-8A08-7DD842A84EDB",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

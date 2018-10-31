@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "435F7171-0FFA-48D5-A7EF-3623A6FA9D7E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1633,
+    "width": 249,
+    "x": -13980,
+    "y": -11545
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation / Main Nav Bar / Vertical  / CiviHR Admin / Option 1",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2ABD97DC-ADE0-42EA-9B43-F695DDAF509B",
+      "overrideName": "CD2C7D09-E78F-4798-B4A0-05D6340C631C_symbolID",
+      "value": "0070182A-1B06-458D-85FB-8F96EF05ED77"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A6F817A8-2901-44AB-8377-8B28F6B6F7C2",
+      "overrideName": "CD2C7D09-E78F-4798-B4A0-05D6340C631C/F37669B8-F130-4153-BDCD-36DD71FCFC68_stringValue",
+      "value": "rocket"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E299A891-8B57-42F4-AA76-C57634CB3EF3",
+      "overrideName": "CD2C7D09-E78F-4798-B4A0-05D6340C631C/B256E433-707F-4254-88E0-D3EC7E94853A_stringValue",
+      "value": "Setup Guide"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "92533D59-A151-4103-99CC-6BC931F7FE93",
+      "overrideName": "69209059-7E60-4CB4-B81F-373FABD1E511_symbolID",
+      "value": "EF04104C-93CC-4359-AF09-49F4CF540446"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2BACB5AC-B73D-438A-8A4F-BF32820C2159",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

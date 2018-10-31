@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0AC095AB-8A43-4F67-82C3-B6277ABED199",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4A6B52B8-C845-44FA-A28F-8018177BBDA0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DCCC04B4-FA61-4D0B-8DF9-41CE96C29DFF",
+    "height": 160,
+    "width": 750,
+    "x": 344,
+    "y": 1267
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Section Module / Book Demo",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9729AB6D-A8EE-443A-B0FD-20D4B1F612AF",
+      "overrideName": "3238BEA8-CB12-46F9-9953-C958A0A565E8_stringValue",
+      "value": "Need a hand? I'm here to help."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D5463684-9199-4B69-8539-0A01F56D7403",
+      "overrideName": "4BCC2F99-63CB-4396-BE51-A12023EBB839_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4B4CF639-819F-4C71-9D55-1D8A8611BD6D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1CEA6B52-F414-483B-B1F5-291AC40109C5",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
